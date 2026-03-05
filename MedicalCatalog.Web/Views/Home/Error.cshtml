@@ -1,0 +1,11 @@
+@model MedicalCatalog.Web.Models.ErrorViewModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Ocurrio un error.</h1>
+<p>Se produjo un error inesperado. Intentalo nuevamente.</p>
+@if (Model.ShowRequestId)
+{
+    <p><strong>Request ID:</strong> @Model.RequestId</p>
+}
