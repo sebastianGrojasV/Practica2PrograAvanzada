@@ -2,12 +2,9 @@
 
 ## Integrantes
 - Sebastian Rojas Vargas
-- Nicolas
-- Gabriel
-- [Pendiente nombre cuarto integrante]
 
 ## Enlace del repositorio
-- [Agregar URL del repositorio aqui]
+- [https://github.com/sebastianGrojasV/Practica2PrograAvanzada]
 
 ## Arquitectura del proyecto
 - `MedicalCatalog.Domain`: entidades del dominio (`Categoria`, `Producto`).
